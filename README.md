@@ -57,6 +57,7 @@ python advanced_ssh_bruteforcer.py <host> -U users.txt -P passwords.txt -t 10
 python advanced_ssh_bruteforcer.py <host> -u root -g --min_length 4 --max_length 6 -c abc123
 ```
 ### Arguments
+<img width="852" height="380" alt="Screenshot 2026-03-26 113356" src="https://github.com/user-attachments/assets/7207dc21-0491-4372-930c-1d1cbf362058" />
 
 
 ### Output
